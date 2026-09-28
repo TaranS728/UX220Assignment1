@@ -1,6 +1,7 @@
 # Health & Wellbeing
 
-![Health and Wellbeing](images/career.jpg)
+![Health and Wellbeing](images/health
+.jpg)
 
 Over the five years since graduating, I have made my health a much bigger priority in my life, by staying consistent with going to the gym and have developing healthier habits that I have been able to maintain even while working a full time job.
 
